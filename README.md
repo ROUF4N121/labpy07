@@ -145,6 +145,11 @@ Program ini adalah implementasi dari sebuah sistem manajemen daftar nilai mahasi
 
 Program ini cukup sederhana namun fungsional, cocok untuk manajemen data mahasiswa dalam skala kecil. Penggunaan input dan output berbasis teks membuatnya mudah digunakan di terminal atau konsol.
 
+### Diagram Class:
+Diagram Classnya adalah sebagai berikut:
+
+![DiagramClass](image/diagramclass.png)
+
 ### Flowchart:
 Flowchartnya adalah sebagai berikut:
 
